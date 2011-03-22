@@ -1,0 +1,6 @@
+body {
+padding-bottom: 50px; 
+}
+.ema-task-finished {
+  text-decoration: line-through;
+}
