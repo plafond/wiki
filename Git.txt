@@ -19,6 +19,15 @@ Commit all changes:
 `git commit -v` -> show diff   
 `git commit -a -v` -> can combine 
 
+List files added:  
+`git ls-files`   
+
+Log/comments:  
+`git log` -v and --stat are options  
+
+Push changes to master(remote) repo:  
+`git push origin`
+
 Update local branch:  
 `git pull`
 
