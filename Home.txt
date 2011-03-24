@@ -2,9 +2,12 @@ Home
 ======
 
 {Tech}
+------    
+{Quote}
 ------  
-{Quotes}
-------
+{Work}
+------  
+
 
 This is the homepage for your personal wiki. You can edit this page by touching the Edit button in the toolbar.
 

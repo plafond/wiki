@@ -1,0 +1,10 @@
+Setup and Startup
+-------------------
+
+After install run `mysql_install_db`
+
+Conf file (my.cnf) located in  `/etc/mysql`
+
+mysql user must have access to all subdirectories in `/var/lib/mysql`
+
+Start daemon with `mysqld start --user=mysql`

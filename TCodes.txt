@@ -1,0 +1,14 @@
+TCodes
+========
+
+al11 -> file system
+
+we02 -> view IDocs  
+we19 -> send IDocs  
+we20 -> partner profile  
+we21 -> partner ports  
+
+
+sm59 -> connectivity test  
+sm04 -> users logged in  
+sm58 -> rfc port  

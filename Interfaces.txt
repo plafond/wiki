@@ -1,0 +1,27 @@
+Interfaces
+==========
+
+
+Sap To DBK 
+-----------
+905, 816, 907:
+uses FTP & Autosys script -> `/app/esb/scripts/SAPBaseScripts`
+
+954(731)
+FTP script direct from SAP to DBK - created by EI owned by SAP
+
+DBK To SAP
+----------
+756:
+dbk-f2q-MIM-ESB-SAP
+
+1428:
+DBK-MIM-SAP
+
+957:
+DBK-MIM-SAP-PI-SAP
+
+
+TM To SAP
+----------
+TM-MIM-MIM-SAP
