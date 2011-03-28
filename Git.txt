@@ -38,3 +38,12 @@ Get repo WITH merging:
 `git merge $repo_name$/$local_branch$`
 
 
+Setup user on new machine:  
+`git config --global user.name "plafond"`  
+`git config --global user.email plafond@gmail.com`
+
+Initial commit (after add/commit):  
+`git remote add origin git@github.com:plafond/hashDictionary.git`
+
+Initial push (after add/commit and remote add):  
+`git push -u origin master`
