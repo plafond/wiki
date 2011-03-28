@@ -1,0 +1,50 @@
+MQCommands
+==========
+
+Common
+-------
+
+`runmqsc`  
+
+`dis q(<Q Name>)` 
+
+`mqsistart <ConfigManager>`  
+`mqsistop  <ConfigManager>`  
+
+`mqsistart <Broker>`  
+`mqsistop <Broker>`
+
+`mqsilist -b <Broker>`
+
+`mqsireload <BrokerName> -e <eg>`
+
+
+Start/Stop flow
+------------------
+
+examples  
+`mqsistopmsgflow -q DCFGMGR01 -b DBRK01 -e RETAIL_LV_20_02 -m com.lcl.esb.sap.MCIDocControlRouter`  
+`mqsistartmsgflow -q DCFGMGR01 -b DBRK01 -e RETAIL_LV_20_02 -m com.lcl.esb.sap.MCIDocControlRouter`  
+
+
+Properties
+-----------
+`mqsireportproperties <Broker> -e <eg> -o ComIbmJVMManager -a`  
+`mqsireportproperties <Broker> -e <eg> -o AllMessageFlows -a`  
+
+example  
+`mqsichangeproperties DBRK01 -e default -o ComIbmJVMManager -n jvmMinHeapSize -v 16777216`
+
+
+Adapters
+---------
+located in `/var/mqsi/components/<Broker>/<random string>`  
+find <random string> using ps -ef | grep <Broker>
+<random string> = unique EG id
+
+Deploy/Delete
+--------------
+`mqsideploy -q <Config Man> -b <Broker> -e <EG> -d <MsgFlow>`  
+`mqsideploy -q <Config Man> -b <Broker> -e <EG> -a <Bar file>`  
+
+`mqsideleteexecutiongroup -q <Config Man> -b <Broker> -e <EG> -w <wait time>`   
