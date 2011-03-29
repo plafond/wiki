@@ -1,0 +1,6 @@
+Bash
+======
+
+Scripting guide:  
+http://tldp.org/LDP/abs/html/
+

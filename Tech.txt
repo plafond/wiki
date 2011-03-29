@@ -1,3 +1,6 @@
 {Git}
 
 {Java}
+
+{Bash}
+
