@@ -1,5 +1,7 @@
 [Cheat Sheet](http://help.github.com/git-cheat-sheets/)
 
+{GitRepositories}
+
 [Branching Strategy Overview](http://nvie.com/posts/a-successful-git-branching-model/)  
 
 Prepare folder:  
