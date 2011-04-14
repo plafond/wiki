@@ -1,0 +1,10 @@
+###
+##
+_wikiURL="https://github.com/plafond/wiki/raw/master"
+
+cat /dev/null > fileList
+for f in `ls`
+do 
+   echo "$_wikiURL/$f" >> fileList
+done
+

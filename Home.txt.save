@@ -1,19 +1,11 @@
 Home
 ======
 
-{Tech}
-------    
-{Quote}
-------  
-{Work}
-------  
-{Lists}
--------
-
-
 This is the homepage for your personal wiki. You can edit this page by touching the Edit button in the toolbar.
 
  Create a link to a new or existing page by surrounding a word with curly brackets like {Todo}, or by using a WikiWord (a word with mixed casing).
+
+ To synchronize the wiki pages between this device and a desktop computer, enter your Dropbox credentials via 'Sync Settings' in the menu.
 
  This wiki uses [Markdown formatting](http://en.wikipedia.org/wiki/Markdown#Syntax_examples) for text editing.
 
