@@ -48,3 +48,10 @@ Deploy/Delete
 `mqsideploy -q <Config Man> -b <Broker> -e <EG> -a <Bar file>`  
 
 `mqsideleteexecutiongroup -q <Config Man> -b <Broker> -e <EG> -w <wait time>`   
+
+
+
+RFHUtil
+---------
+Remote Connection: TEMP/tcp/lclvad144(1415)  
+TEMP/<protocol>/<server>(<port>)

@@ -5,6 +5,11 @@ MOVIES
 * Machete
 * Brothers
 * The Town
+* Wallstreet 2
+* Due Date
+* Girl with the Dragon Tattoo
+* Expendables
+
 
 
 COMEDIES
