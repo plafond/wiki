@@ -1,0 +1,33 @@
+Car checkup:
+------------  
+Headlight - need new low beam
+Back Fog Light
+Tires
+
+
+
+Reg Maintenance:
+-----------------  
+every year:  
+* hoses and fluids
+* steering and suspension
+* brake pad wear/disc check
+* handbrake
+* power steering fluid
+* driveshaft
+* exhaust
+* pollen air filter
+* aux drivebelt
+* fuel filter
+
+every 58K km starting at 68K km:  
+* Check/Adjust Valve clearance
+* Air filter (clean K&N)
+* Trans Fluid check level
+
+every 97K km starting at 106K km:  
+* Timing Belt
+* Aux drive belt
+
+every 4 years :  
+* Brake fluid

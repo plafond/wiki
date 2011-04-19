@@ -51,3 +51,13 @@ Initial commit (after add/commit):
 
 Initial push (after add/commit and remote add):  
 `git push -u origin master`
+
+Reset local repo to Head|<branch>  
+`git reset --hard HEAD`
+
+
+^^perhaps it is better to `git checkout <filename>`??  
+`git checkout -f`
+
+Can actually revert a commit!  
+`git revert HEAD|<branch>`
